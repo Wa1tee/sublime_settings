@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Boxy Theme",
+		"Deviot (Arduino IDE)",
+		"Django",
+		"Django-Rest-Snippets",
+		"ESLint",
+		"Line Endings Unify",
+		"Material Theme - Appbar",
+		"Package Control",
+		"PowerShell",
+		"Python 3",
+		"Python Checker",
+		"Seti_UI",
+		"SFTP",
+		"Smart VHDL",
+		"Vue Syntax Highlight"
+	]
+}

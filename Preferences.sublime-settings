@@ -1,0 +1,10 @@
+{
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"",
+		"Python Checker"
+	],
+	"material_theme_tree_headings": true,
+	"theme": "Boxy Monokai.sublime-theme"
+}
